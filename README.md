@@ -1,2 +1,3 @@
 # RockPaperScissors_Python
- A console game created with Python
+ A  simple console game created with Python
+ Made by Nikolay Gerginov
